@@ -52,5 +52,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
   <details>
     <summary>Click to see the Resume Credentials Demo</summary>
 
-![Resume Demo](./assets/resume.gif)
+![Resume Demo](./resume.gif)
   </details>
