@@ -49,4 +49,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
    username: johndoe / tuberlin / max@trust-cv.de
    password: password
 
+  <details>
+    <summary>Click to see the Resume Credentials Demo</summary>
 
+![Resume Demo](./assets/resume.gif)
+  </details>
